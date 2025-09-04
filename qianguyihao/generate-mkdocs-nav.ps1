@@ -1,4 +1,7 @@
-# 保存为 generate-mkdocs-nav.ps1
+#############################################
+## 将 Web 目录下目录结构以 mkdocs 导航配置形式导出
+## 由 Chat GPT-5 生成
+#############################################
 param (
     [string]$DocsDir = "Web",              # Markdown 文档根目录
     [string]$OutputFile = "nav_output.txt" # 输出的导航配置文件
