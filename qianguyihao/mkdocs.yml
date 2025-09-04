@@ -1,0 +1,303 @@
+site_name: Web
+site_url: 'http://localhost:8000'
+docs_dir: 'Web'
+nav:
+  - Home: 'README.md'
+  - License: 'License.md'
+  - 00-前端工具:
+    - 01-VS Code的使用: '00-前端工具\\01-VS Code的使用.md'
+    - 02-Git的使用: '00-前端工具\\02-Git的使用.md'
+    - 03-网络抓包和代理工具：Whistle: '00-前端工具\\03-网络抓包和代理工具：Whistle.md'
+    - 04-解决 Git 不区分大小写导致的文件冲突问题: '00-前端工具\\04-解决 Git 不区分大小写导致的文件冲突问题.md'
+  - 01-HTML:
+    - 01-认识Web和Web标准: '01-HTML\\01-认识Web和Web标准.md'
+    - 02-浏览器的介绍: '01-HTML\\02-浏览器的介绍.md'
+    - 03-初识HTML: '01-HTML\\03-初识HTML.md'
+    - 04-HTML标签：排版标签: '01-HTML\\04-HTML标签：排版标签.md'
+    - 05-HTML标签：字体标签和超链接: '01-HTML\\05-HTML标签：字体标签和超链接.md'
+    - 06-HTML标签：图片标签: '01-HTML\\06-HTML标签：图片标签.md'
+    - 07-html标签图文详解（二）: '01-HTML\\07-html标签图文详解（二）.md'
+    - 08-HTML5详解: '01-HTML\\08-HTML5详解.md'
+    - 09-HTML5举例：简单的视频播放器: '01-HTML\\09-HTML5举例：简单的视频播放器.md'
+    - 10-HTML5详解（二）: '01-HTML\\10-HTML5详解（二）.md'
+    - 11-HTML5详解（三）: '01-HTML\\11-HTML5详解（三）.md'
+    - 12-HTML基础回顾: '01-HTML\\12-HTML基础回顾.md'
+  - 02-CSS基础:
+    - 01-CSS属性：字体属性和文本属性: '02-CSS基础\\01-CSS属性：字体属性和文本属性.md'
+    - 02-CSS属性：背景属性: '02-CSS基础\\02-CSS属性：背景属性.md'
+    - 03-CSS样式表和选择器: '02-CSS基础\\03-CSS样式表和选择器.md'
+    - 04-CSS选择器：伪类: '02-CSS基础\\04-CSS选择器：伪类.md'
+    - 05-CSS样式表的继承性和层叠性: '02-CSS基础\\05-CSS样式表的继承性和层叠性.md'
+    - 06-CSS盒模型详解: '02-CSS基础\\06-CSS盒模型详解.md'
+    - 07-浮动: '02-CSS基础\\07-浮动.md'
+    - 08-CSS属性：定位属性: '02-CSS基础\\08-CSS属性：定位属性.md'
+    - 09-CSS案例讲解：博雅互动: '02-CSS基础\\09-CSS案例讲解：博雅互动.md'
+    - 10-CSS3选择器详解: '02-CSS基础\\10-CSS3选择器详解.md'
+    - 11-CSS3属性详解（一）: '02-CSS基础\\11-CSS3属性详解（一）.md'
+    - 12-CSS3属性详解：动画详解: '02-CSS基础\\12-CSS3属性详解：动画详解.md'
+    - 13-CSS3属性：Flex布局图文详解: '02-CSS基础\\13-CSS3属性：Flex布局图文详解.md'
+    - 14-CSS3属性详解：Web字体: '02-CSS基础\\14-CSS3属性详解：Web字体.md'
+    - 15-Sass入门: '02-CSS基础\\15-Sass入门.md'
+    - 16-浏览器的兼容性问题: '02-CSS基础\\16-浏览器的兼容性问题.md'
+    - 17-CSS3的常见边框汇总: '02-CSS基础\\17-CSS3的常见边框汇总.md'
+  - 03-CSS进阶:
+    - 00-准备: '03-CSS进阶\\00-准备.md'
+    - 01-CSS中的非布局样式: '03-CSS进阶\\01-CSS中的非布局样式.md'
+    - 02-CSS布局: '03-CSS进阶\\02-CSS布局.md'
+    - 03-网页设计和开发中，关于字体的常识: '03-CSS进阶\\03-网页设计和开发中，关于字体的常识.md'
+    - 04-如何让一个元素水平垂直居中？: '03-CSS进阶\\04-如何让一个元素水平垂直居中？.md'
+    - CSS的一些小知识: '03-CSS进阶\\CSS的一些小知识.md'
+    - CSS开发积累: '03-CSS进阶\\CSS开发积累.md'
+    - CSS面试题: '03-CSS进阶\\CSS面试题.md'
+    - CSS文章推荐: '03-CSS进阶\\CSS文章推荐.md'
+  - 04-JavaScript基础:
+    - 01-编程语言和JavaScript简介: '04-JavaScript基础\\01-编程语言和JavaScript简介.md'
+    - 02-开始写JavaScript：hello world: '04-JavaScript基础\\02-开始写JavaScript：hello world.md'
+    - 03-常量和变量: '04-JavaScript基础\\03-常量和变量.md'
+    - 04-标识符、关键字、保留字: '04-JavaScript基础\\04-标识符、关键字、保留字.md'
+    - 05-变量的数据类型：基本数据类型和引用数据类型: '04-JavaScript基础\\05-变量的数据类型：基本数据类型和引用数据类型.md'
+    - 06-基本数据类型：String 和 Boolean: '04-JavaScript基础\\06-基本数据类型：String 和 Boolean.md'
+    - 07-基本数据类型：Number: '04-JavaScript基础\\07-基本数据类型：Number.md'
+    - 08-基本数据类型：Undefined 和 Null: '04-JavaScript基础\\08-基本数据类型：Undefined 和 Null.md'
+    - 09-数据类型转换: '04-JavaScript基础\\09-数据类型转换.md'
+    - 10-运算符: '04-JavaScript基础\\10-运算符.md'
+    - 11-流程控制语句：选择结构（if和switch）: '04-JavaScript基础\\11-流程控制语句：选择结构（if和switch）.md'
+    - 12-流程控制语句：循环结构（for和while）: '04-JavaScript基础\\12-流程控制语句：循环结构（for和while）.md'
+    - 13-对象简介: '04-JavaScript基础\\13-对象简介.md'
+    - 14-基本包装类型: '04-JavaScript基础\\14-基本包装类型.md'
+    - 15-内置对象 String：字符串的常见方法: '04-JavaScript基础\\15-内置对象 String：字符串的常见方法.md'
+    - 16-内置对象：Number和Math: '04-JavaScript基础\\16-内置对象：Number和Math.md'
+    - 17-内置对象：Date: '04-JavaScript基础\\17-内置对象：Date.md'
+    - 18-数组简介: '04-JavaScript基础\\18-数组简介.md'
+    - 19-数组的常见方法: '04-JavaScript基础\\19-数组的常见方法.md'
+    - 20-函数简介: '04-JavaScript基础\\20-函数简介.md'
+    - 21-递归函数: '04-JavaScript基础\\21-递归函数.md'
+    - 22-立即执行函数: '04-JavaScript基础\\22-立即执行函数.md'
+    - 23-作用域、变量提升、函数提升: '04-JavaScript基础\\23-作用域、变量提升、函数提升.md'
+    - 24-预编译: '04-JavaScript基础\\24-预编译.md'
+    - 25-this指向: '04-JavaScript基础\\25-this指向.md'
+    - 26-闭包: '04-JavaScript基础\\26-闭包.md'
+    - 27-面向对象简介: '04-JavaScript基础\\27-面向对象简介.md'
+    - 28-对象的创建&构造函数: '04-JavaScript基础\\28-对象的创建&构造函数.md'
+    - 29-对象的基本操作: '04-JavaScript基础\\29-对象的基本操作.md'
+    - 30-浅拷贝和深拷贝: '04-JavaScript基础\\30-浅拷贝和深拷贝.md'
+    - 31-对象的高级操作: '04-JavaScript基础\\31-对象的高级操作.md'
+    - 32-原型链和原型继承（待更新）: '04-JavaScript基础\\32-原型链和原型继承（待更新）.md'
+    - 33-类和构造继承（待更新）: '04-JavaScript基础\\33-类和构造继承（待更新）.md'
+    - 34-正则表达式: '04-JavaScript基础\\34-正则表达式.md'
+    - 35-事件简介: '04-JavaScript基础\\35-事件简介.md'
+    - 36-DOM简介和DOM操作: '04-JavaScript基础\\36-DOM简介和DOM操作.md'
+    - 37-通过style对象获取和设置行内样式: '04-JavaScript基础\\37-通过style对象获取和设置行内样式.md'
+    - 38-offset相关属性和匀速动画（含轮播图的实现）: '04-JavaScript基础\\38-offset相关属性和匀速动画（含轮播图的实现）.md'
+    - 39-scroll相关属性和缓动动画: '04-JavaScript基础\\39-scroll相关属性和缓动动画.md'
+    - 40-client（可视区）相关属性: '04-JavaScript基础\\40-client（可视区）相关属性.md'
+    - 41-事件的绑定和事件对象Event: '04-JavaScript基础\\41-事件的绑定和事件对象Event.md'
+    - 42-事件的传播和事件冒泡: '04-JavaScript基础\\42-事件的传播和事件冒泡.md'
+    - 43-事件委托: '04-JavaScript基础\\43-事件委托.md'
+    - 44-键盘事件: '04-JavaScript基础\\44-键盘事件.md'
+    - 45-BOM简介和navigator.userAgent&History&Location: '04-JavaScript基础\\45-BOM简介和navigator.userAgent&History&Location.md'
+    - 46-定时器: '04-JavaScript基础\\46-定时器.md'
+    - 47-jQuery的介绍和选择器: '04-JavaScript基础\\47-jQuery的介绍和选择器.md'
+    - 48-jQuery动画详解: '04-JavaScript基础\\48-jQuery动画详解.md'
+    - 49-jQuery操作DOM: '04-JavaScript基础\\49-jQuery操作DOM.md'
+    - 50-jQuery的事件机制和其他知识: '04-JavaScript基础\\50-jQuery的事件机制和其他知识.md'
+    - 51-Zepto入门: '04-JavaScript基础\\51-Zepto入门.md'
+    - 常见代码解读: '04-JavaScript基础\\常见代码解读.md'
+    - 原型对象: '04-JavaScript基础\\原型对象.md'
+    - 原型链: '04-JavaScript基础\\原型链.md'
+    - BOM的常见内置方法和内置对象: '04-JavaScript基础\\BOM的常见内置方法和内置对象.md'
+  - 05-JavaScript基础：ES6语法:
+    - 01-ES5和ES6的介绍: '05-JavaScript基础：ES6语法\\01-ES5和ES6的介绍.md'
+    - 02-ES5中的严格模式: '05-JavaScript基础：ES6语法\\02-ES5中的严格模式.md'
+    - 03-ES5中的一些扩展: '05-JavaScript基础：ES6语法\\03-ES5中的一些扩展.md'
+    - 04-ES6：变量 let、const 和块级作用域: '05-JavaScript基础：ES6语法\\04-ES6：变量 let、const 和块级作用域.md'
+    - 05-ES6：变量的解构赋值: '05-JavaScript基础：ES6语法\\05-ES6：变量的解构赋值.md'
+    - 06-ES6：箭头函数: '05-JavaScript基础：ES6语法\\06-ES6：箭头函数.md'
+    - 07-剩余参数和扩展运算符: '05-JavaScript基础：ES6语法\\07-剩余参数和扩展运算符.md'
+    - 08-字符串、数组、对象的扩展: '05-JavaScript基础：ES6语法\\08-字符串、数组、对象的扩展.md'
+    - 09-内置对象扩展：Set数据结构: '05-JavaScript基础：ES6语法\\09-内置对象扩展：Set数据结构.md'
+    - ES6：Symbol: '05-JavaScript基础：ES6语法\\ES6：Symbol.md'
+  - 06-JavaScript基础：异步编程:
+    - 00-服务器分类及PHP入门: '06-JavaScript基础：异步编程\\00-服务器分类及PHP入门.md'
+    - 01-单线程和异步任务: '06-JavaScript基础：异步编程\\01-单线程和异步任务.md'
+    - 02-Ajax入门和发送http请求: '06-JavaScript基础：异步编程\\02-Ajax入门和发送http请求.md'
+    - 03-Ajax传输json和XML: '06-JavaScript基础：异步编程\\03-Ajax传输json和XML.md'
+    - 04-同源和跨域: '06-JavaScript基础：异步编程\\04-同源和跨域.md'
+    - 05-回调函数: '06-JavaScript基础：异步编程\\05-回调函数.md'
+    - 06-Promise入门详解: '06-JavaScript基础：异步编程\\06-Promise入门详解.md'
+    - 07-Promise实例的方法: '06-JavaScript基础：异步编程\\07-Promise实例的方法.md'
+    - 08-Promise的链式调用: '06-JavaScript基础：异步编程\\08-Promise的链式调用.md'
+    - 09-Promise类的方法: '06-JavaScript基础：异步编程\\09-Promise类的方法.md'
+    - 10-async异步函数: '06-JavaScript基础：异步编程\\10-async异步函数.md'
+    - 11-异常处理方案: '06-JavaScript基础：异步编程\\11-异常处理方案.md'
+    - 12-事件循环机制、宏任务和微任务: '06-JavaScript基础：异步编程\\12-事件循环机制、宏任务和微任务.md'
+    - 13-Promise的高级用法: '06-JavaScript基础：异步编程\\13-Promise的高级用法.md'
+    - 14-Promise常见面试题: '06-JavaScript基础：异步编程\\14-Promise常见面试题.md'
+  - 07-JavaScript进阶:
+    - 01-var、let、const的区别: '07-JavaScript进阶\\01-var、let、const的区别.md'
+    - 02-浅拷贝和深拷贝: '07-JavaScript进阶\\02-浅拷贝和深拷贝.md'
+    - 03-迭代器和生成器: '07-JavaScript进阶\\03-迭代器和生成器.md'
+    - 创建对象和继承: '07-JavaScript进阶\\创建对象和继承.md'
+    - 高阶函数: '07-JavaScript进阶\\高阶函数.md'
+    - 数据的赋值: '07-JavaScript进阶\\数据的赋值.md'
+    - 数组的进阶操作: '07-JavaScript进阶\\数组的进阶操作.md'
+    - 作用域: '07-JavaScript进阶\\作用域.md'
+    - call、apply、bind的区别: '07-JavaScript进阶\\call、apply、bind的区别.md'
+    - JavaScript开发积累: '07-JavaScript进阶\\JavaScript开发积累.md'
+    - Promise的一些题目: '07-JavaScript进阶\\Promise的一些题目.md'
+  - 08-前端基本功：CSS和DOM练习:
+    - 01-CSS基础练习：JD首页的制作（顶部和底部）: '08-前端基本功：CSS和DOM练习\\01-CSS基础练习：JD首页的制作（顶部和底部）.md'
+    - 02-CSS基础练习：JD首页的制作（快捷导航部分）: '08-前端基本功：CSS和DOM练习\\02-CSS基础练习：JD首页的制作（快捷导航部分）.md'
+    - 03-DOM操作练习：基础练习: '08-前端基本功：CSS和DOM练习\\03-DOM操作练习：基础练习.md'
+    - 04-DOM操作练习：Tab栏切换（通过className设置样式）: '08-前端基本功：CSS和DOM练习\\04-DOM操作练习：Tab栏切换（通过className设置样式）.md'
+    - 05-DOM操作练习：访问关系的封装: '08-前端基本功：CSS和DOM练习\\05-DOM操作练习：访问关系的封装.md'
+    - 07-DOM操作练习：innerHTML的方式创建元素: '08-前端基本功：CSS和DOM练习\\07-DOM操作练习：innerHTML的方式创建元素.md'
+  - 09-移动Web开发:
+    - 01-Bootstrap入门: '09-移动Web开发\\01-Bootstrap入门.md'
+    - 02-Bootstrap使用: '09-移动Web开发\\02-Bootstrap使用.md'
+    - 03-Less详解: '09-移动Web开发\\03-Less详解.md'
+  - 10-MySQL数据库:
+    - 01-数据库的基础知识: '10-MySQL数据库\\01-数据库的基础知识.md'
+    - 02-MySQL的安装和Navicat软件使用: '10-MySQL数据库\\02-MySQL的安装和Navicat软件使用.md'
+    - 03-MySQL的基本操作: '10-MySQL数据库\\03-MySQL的基本操作.md'
+    - 04-MySQL字段的数据类型: '10-MySQL数据库\\04-MySQL字段的数据类型.md'
+    - 05-MySQL数据库的常用命令: '10-MySQL数据库\\05-MySQL数据库的常用命令.md'
+    - 事务: '10-MySQL数据库\\事务.md'
+    - MySQL设计三大范式: '10-MySQL数据库\\MySQL设计三大范式.md'
+  - 11-Node.js:
+    - 01-Node.js介绍: '11-Node.js\\01-Node.js介绍.md'
+    - 02-Node.js的特点: '11-Node.js\\02-Node.js的特点.md'
+    - 03-Node.js开发环境安装: '11-Node.js\\03-Node.js开发环境安装.md'
+    - 04-Node.js模块化规范：CommonJS: '11-Node.js\\04-Node.js模块化规范：CommonJS.md'
+    - 05-Node.js内置模块：fs文件模块: '11-Node.js\\05-Node.js内置模块：fs文件模块.md'
+    - 06-Node.js内置模块：path路径模块: '11-Node.js\\06-Node.js内置模块：path路径模块.md'
+    - 07-Node.js操作MySQL数据库: '11-Node.js\\07-Node.js操作MySQL数据库.md'
+    - 事件驱动和非阻塞机制: '11-Node.js\\事件驱动和非阻塞机制.md'
+    - CommonJS: '11-Node.js\\CommonJS.md'
+    - ES6: '11-Node.js\\ES6.md'
+    - JavaScript模块化：AMD: '11-Node.js\\JavaScript模块化：AMD.md'
+    - JavaScript模块化：CMD: '11-Node.js\\JavaScript模块化：CMD.md'
+    - JavaScript模块化：ES6: '11-Node.js\\JavaScript模块化：ES6.md'
+    - KOA2: '11-Node.js\\KOA2.md'
+    - Node.js代码举例: '11-Node.js\\Node.js代码举例.md'
+    - WebSocket: '11-Node.js\\WebSocket.md'
+  - 12-Vue基础:
+    - 01-Vue的介绍和vue-cli: '12-Vue基础\\01-Vue的介绍和vue-cli.md'
+    - 02-Vue的系统指令: '12-Vue基础\\02-Vue的系统指令.md'
+    - 03-v-on的事件修饰符: '12-Vue基础\\03-v-on的事件修饰符.md'
+    - 04-Vue的系统指令(二): '12-Vue基础\\04-Vue的系统指令(二).md'
+    - 05-Vue的举例：列表功能: '12-Vue基础\\05-Vue的举例：列表功能.md'
+    - 06-自定义过滤器：时间格式化举例: '12-Vue基础\\06-自定义过滤器：时间格式化举例.md'
+    - 07-自定义按键修饰符&自定义指令: '12-Vue基础\\07-自定义按键修饰符&自定义指令.md'
+    - 08-Vue实例的生命周期函数: '12-Vue基础\\08-Vue实例的生命周期函数.md'
+    - 09-Vue中的Ajax请求: '12-Vue基础\\09-Vue中的Ajax请求.md'
+    - 10-Vue动画: '12-Vue基础\\10-Vue动画.md'
+    - 11-Vue组件的定义和注册: '12-Vue基础\\11-Vue组件的定义和注册.md'
+    - 12-Vue组件之间的传值: '12-Vue基础\\12-Vue组件之间的传值.md'
+    - 13-Vue-router路由: '12-Vue基础\\13-Vue-router路由.md'
+    - Vue-router路由: '12-Vue基础\\Vue-router路由.md'
+    - Vue.js在开发中的常见写法积累: '12-Vue基础\\Vue.js在开发中的常见写法积累.md'
+    - Vue开发积累: '12-Vue基础\\Vue开发积累.md'
+    - Vue组件: '12-Vue基础\\Vue组件.md'
+  - 13-React基础:
+    - 01-React介绍: '13-React基础\\01-React介绍.md'
+    - 02-JSX语法介绍: '13-React基础\\02-JSX语法介绍.md'
+    - 03-React组件（一）：生命周期: '13-React基础\\03-React组件（一）：生命周期.md'
+    - 04-React组件（二）：常见属性和函数: '13-React基础\\04-React组件（二）：常见属性和函数.md'
+    - 05-React中绑定this并给函数传参的几种方式: '13-React基础\\05-React中绑定this并给函数传参的几种方式.md'
+    - 06-React的单向数据绑定: '13-React基础\\06-React的单向数据绑定.md'
+    - 07-React路由的使用: '13-React基础\\07-React路由的使用.md'
+    - 08-Ant Design的基本使用: '13-React基础\\08-Ant Design的基本使用.md'
+    - 09-AntD框架的upload组件上传图片时遇到的一些坑: '13-React基础\\09-AntD框架的upload组件上传图片时遇到的一些坑.md'
+    - 10-AntD框架的upload组件上传图片时使用customRequest方法自定义上传行为: '13-React基础\\10-AntD框架的upload组件上传图片时使用customRequest方法自定义上传行为.md'
+    - 11-React Navive初识: '13-React基础\\11-React Navive初识.md'
+  - 14-前端性能优化:
+    - 00-前端性能优化认知: '14-前端性能优化\\00-前端性能优化认知.md'
+    - 01-前端性能分析工具和指标: '14-前端性能优化\\01-前端性能分析工具和指标.md'
+    - 02-浏览器渲染机制: '14-前端性能优化\\02-浏览器渲染机制.md'
+    - 03-渲染优化: '14-前端性能优化\\03-渲染优化.md'
+    - 04-静态资源优化: '14-前端性能优化\\04-静态资源优化.md'
+    - 05-页面渲染性能优化: '14-前端性能优化\\05-页面渲染性能优化.md'
+    - lazyload&防抖动和节流阀: '14-前端性能优化\\lazyload&防抖动和节流阀.md'
+  - 15-前端工程化:
+    - 01-前端代码规范: '15-前端工程化\\01-前端代码规范.md'
+    - 02-前端书籍推荐: '15-前端工程化\\02-前端书籍推荐.md'
+    - 前端常见专有名词: '15-前端工程化\\前端常见专有名词.md'
+    - 前端的几道题目: '15-前端工程化\\前端的几道题目.md'
+    - 前端工程化: '15-前端工程化\\前端工程化.md'
+    - 前端监控技术: '15-前端工程化\\前端监控技术.md'
+    - 数组的常见操作: '15-前端工程化\\数组的常见操作.md'
+    - Vue开发积累: '15-前端工程化\\Vue开发积累.md'
+  - 16-前端综合:
+    - 01-2022年Web前端开发流程和学习路线（详尽版）: '16-前端综合\\01-2022年Web前端开发流程和学习路线（详尽版）.md'
+    - 02-2022年Web前端入门自学路线（精简版）: '16-前端综合\\02-2022年Web前端入门自学路线（精简版）.md'
+    - 2018年-前端日记: '16-前端综合\\2018年-前端日记.md'
+    - 2019年-前端日记: '16-前端综合\\2019年-前端日记.md'
+    - 2020年-前端日记: '16-前端综合\\2020年-前端日记.md'
+    - 2022年-前端日记: '16-前端综合\\2022年-前端日记.md'
+    - 2024年-前端日记: '16-前端综合\\2024年-前端日记.md'
+    - 北京有哪些IT互联网大厂: '16-前端综合\\北京有哪些IT互联网大厂.md'
+    - 模板引擎: '16-前端综合\\模板引擎.md'
+    - 前端博客推荐: '16-前端综合\\前端博客推荐.md'
+    - 前端分享群整理: '16-前端综合\\前端分享群整理.md'
+    - 前端开发积累: '16-前端综合\\前端开发积累.md'
+    - 前端语录: '16-前端综合\\前端语录.md'
+    - 上海有哪些IT互联网大厂: '16-前端综合\\上海有哪些IT互联网大厂.md'
+    - 深圳有哪些IT互联网大厂: '16-前端综合\\深圳有哪些IT互联网大厂.md'
+    - 网友对本项目提的建议: '16-前端综合\\网友对本项目提的建议.md'
+    - ajax相关: '16-前端综合\\ajax相关.md'
+    - CSS开发总结: '16-前端综合\\CSS开发总结.md'
+    - Express: '16-前端综合\\Express.md'
+    - html相关: '16-前端综合\\html相关.md'
+    - json相关: '16-前端综合\\json相关.md'
+    - json字符串的解析和遍历: '16-前端综合\\json字符串的解析和遍历.md'
+  - 17-资源推荐:
+    - 01-前端书籍推荐: '17-资源推荐\\01-前端书籍推荐.md'
+    - 02-Web前端最新导航: '17-资源推荐\\02-Web前端最新导航.md'
+    - 03-前端学习资源推荐: '17-资源推荐\\03-前端学习资源推荐.md'
+    - 04-前端大佬名单: '17-资源推荐\\04-前端大佬名单.md'
+    - 05-前端GitHub项目整理: '17-资源推荐\\05-前端GitHub项目整理.md'
+    - 06-前端文章推荐: '17-资源推荐\\06-前端文章推荐.md'
+    - 2018-推荐文章: '17-资源推荐\\2018-推荐文章.md'
+    - 2019-推荐文章: '17-资源推荐\\2019-推荐文章.md'
+    - 2020-推荐文章: '17-资源推荐\\2020-推荐文章.md'
+    - 2022-推荐文章: '17-资源推荐\\2022-推荐文章.md'
+    
+markdown_extensions:
+  - toc:
+      permalink: "#"
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.path
+    - toc.follow
+    - navigation.top
+  palette:
+    
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    
+    # light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: light green
+      accent: orange
+    
+    # dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: blue grey
+      accent: blue
