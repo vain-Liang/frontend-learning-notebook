@@ -3,7 +3,7 @@ site_url: 'http://localhost:8000'
 docs_dir: 'Web'
 nav:
   - Home: 'README.md'
-  - License: 'License.md'
+  - License: 'LICENSE.md'
   - 00-前端工具:
     - 01-VS Code的使用: '00-前端工具\\01-VS Code的使用.md'
     - 02-Git的使用: '00-前端工具\\02-Git的使用.md'
