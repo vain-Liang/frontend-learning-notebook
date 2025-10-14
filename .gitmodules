@@ -1,7 +1,8 @@
 [submodule "qianguyihao/Web"]
 	path = qianguyihao/Web
 	url = https://github.com/qianguyihao/Web.git
+	shallow =  true
 [submodule "Web-Dev-For-Beginners"]
 	path = Web-Dev-For-Beginners
 	url = https://github.com/vain-Liang/Web-Dev-For-Beginners.git
-	branch = learning
+	shallow = true
